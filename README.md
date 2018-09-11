@@ -1,6 +1,5 @@
 # WebpackLoader
 根据流程开发一个简单的webpack的loader
-###初始化文件
 * npm init
   > npm初始化webpack项目
 * npm i webpack webpack-cli webpack-dev-server
